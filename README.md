@@ -1,7 +1,7 @@
 # PHVRMVCY MUGEN
 
-Playable build (Cino + original SB Cookin).
+Playable GitHub Pages build (Cino six-sheet Human+Bull + original SB Cookin).
 
 **Play here:** https://jonitavius-ui.github.io/mugen/
 
-Source: https://github.com/jonitavius-ui/phvrmvcy-mugen-handoff
+Source of truth: https://github.com/jonitavius-ui/phvrmvcy-mugen-handoff @ `890525a` (PR #1 Sheet1 movement).
