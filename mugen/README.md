@@ -1,14 +1,13 @@
-# /mugen assets (GitHub Pages static pack)
-
-Synced from handoff main `890525a` (`public/mugen`).
+# /public/mugen assets
 
 ```
-frames/cino/     playable Cino six-sheet (Sheet1 movement + Bull)
+frames/cino/     playable Cino (DO NOT REBUILD)
 frames/sb/       original working SB Cookin
-atlas/*.json     animation maps (ox/oy, s1 tags, Sheet1 clip table)
+atlas/*.json     animation maps (ox/oy foot anchors)
 portraits/       HUD faces only
 stages/          lobby + fight backgrounds
 assets/          source sheets (keep)
+_archive/        unused generated roster — not loaded at boot
 ```
 
-Engine bundle: `/mugen/game.js` + stylesheet `/assets/game.css`.
+See `/workspace/docs/HANDOFF.md`.

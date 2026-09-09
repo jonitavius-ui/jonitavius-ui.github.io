@@ -1,7 +1,7 @@
 # PHVRMVCY MUGEN
 
-Playable GitHub Pages build (Cino six-sheet Human+Bull + original SB Cookin).
+Playable build (Cino + original SB Cookin). Sheet1 Human Cino movement (`CINO_BASE_HEIGHT=212`).
 
 **Play here:** https://jonitavius-ui.github.io/mugen/
 
-Source of truth: https://github.com/jonitavius-ui/phvrmvcy-mugen-handoff @ `890525a` (PR #1 Sheet1 movement).
+Source: https://github.com/jonitavius-ui/phvrmvcy-mugen-handoff @ 890525a67381620717de09ea98ceb9c3a8f01130
