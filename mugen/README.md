@@ -1,6 +1,15 @@
-# PHVRMVCY MUGEN (GitHub Pages)
+# PHVRMVCY MUGEN
 
-Play: https://jonitavius-ui.github.io/mugen/
+Playable build (Cino + original SB Cookin).
 
-Version: **s6ult1** — Cino Up+D Green Ultimate (sheet6 body+FX). Down+C Bull Form intact.
-Source: https://github.com/jonitavius-ui/phvrmvcy-mugen-handoff
+**Play here:** https://jonitavius-ui.github.io/mugen/
+
+## Version
+- **cache:** `redraw1`
+- **Cino Human:** approved GOLD contact-strip redraw (idle/walk/run/crouch/jump/normals/hurt/specials body)
+- **Kept:** Down+C Bull Form art; Up+D Green Ultimate body+FX (`s6ult1`)
+- **Untouched:** stages, lobby, char select shell, SB Cookin, controls
+
+## Gaps
+- Kick strip: 4/5 frames recovered (one merged in source contact)
+- Specials body source had 7–8 poses shared across special anims (not unique per special)
